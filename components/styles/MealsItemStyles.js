@@ -19,18 +19,6 @@ const styles = StyleSheet.create({
     image: {
         height: 200,
         borderRadius: 2
-    },
-    descriptionContainer: {
-        flex: 1,
-        flexDirection:"row",
-        justifyContent: 'center',
-        alignItems: 'center'
-    },
-    description: {
-        fontSize: 15,
-        color: 'black',
-        alignSelf: 'center',
-        margin: 2
     }
 });
 
